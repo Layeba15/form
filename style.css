@@ -12,6 +12,7 @@ a{
 ol{
   font-size: 20px;
   color: white;
+  text-align: left;
 }
 input{
   margin: 0;
