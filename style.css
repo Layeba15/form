@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  background-image: url(pic1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+}
+a{
+  color: white;
+}
+ol{
+  font-size: 20px;
+  color: white;
+}
+input{
+  margin: 0;
+}
+label{
+  margin: 0;
+  text-align: left;
+  font-size: 18px;
+}
+button{
+  border-radius: 10%;
+  background-color: black;
+  color: white;
+  opacity: inherit;
+  margin: 0;
+  text-align: center;
+}
+.i1{
+  width: 200px;
+}
+.p1{
+  margin: 0;
+  text-align: right;
+}
+.p2{
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+.p3{
+  text-align: center;
+}
+.top{
+  background-color: #007575;
+  height: 20px;
+  width: 100%;
+}
+.middle{
+  background-image: url(pic2.jpg);
+  margin-top: 50px;
+  margin-left: 500px;
+  height: auto;
+  width: 300px;
+}
