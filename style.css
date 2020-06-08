@@ -55,6 +55,6 @@ button{
   background-image: url(pic2.jpg);
   margin: auto;
   height: auto;
-  width: 50%;
+  width: auto;
   text-align: center;
 }
