@@ -52,8 +52,8 @@ button{
 }
 .middle{
   background-image: url(pic2.jpg);
-  margin-top: 50px;
-  margin-left: 500px;
+  margin: auto;
   height: auto;
-  width: 300px;
+  width: 25%;
+  text-align: center;
 }
